@@ -11,6 +11,16 @@ Bem-vindo ao meu portfólio! Este projeto é uma apresentação das minhas habil
 - Express
 - MongoDB
 
+## Bibliotecas
+
+- **React Router:** Para gerenciamento de rotas na aplicação.
+- **Axios:** Para fazer requisições HTTP.
+- **Heroicons:** Para ícones na interface.
+- **Tailwind CSS:** Para estilização rápida e responsiva.
+- **Formik:** Para gerenciamento de formulários.
+- **Yup:** Para validação de formulários (se estiver usando com Formik).
+- **React Icons:** Para usar uma variedade de ícones de diferentes bibliotecas.
+
 ## Funcionalidades
 
 - **Página Inicial:** Uma visão geral do meu portfólio.
@@ -18,20 +28,3 @@ Bem-vindo ao meu portfólio! Este projeto é uma apresentação das minhas habil
 - **Lista de Projetos:** Apresenta projetos que desenvolvi, com links para o código-fonte no GitHub.
 - **Formulário de Contato:** Permite que os visitantes entrem em contato comigo.
 - **Navegação:** Navegação intuitiva entre as seções do portfólio.
-
-## Projetos
-
-Aqui estão alguns dos projetos que você encontrará no meu portfólio:
-
-1. **[Gerenciador de Finanças Pessoais](https://github.com/guilhermestrata/GerenciadorFinancasPessoais)**: Aplicação console em C# para controle de transações.
-2. **[Servidor em Rede Wi-fi](https://github.com/guilhermestrata/server-esp32)**: Servidor local que carrega uma página HTML utilizando o componente ESP32.
-3. **[Cultivo Mind](https://github.com/guilhermestrata/cultivo-front)**: Startup de meditação com serviço para funcionários de empresas.
-4. **[Snake Game Hack](https://github.com/guilhermestrata/SnakeHack)**: Automação em Python para vencer o jogo do Google: Snake Game.
-
-## Instalação
-
-Para rodar este projeto localmente, siga os seguintes passos:
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
